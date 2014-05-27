@@ -1,12 +1,6 @@
 
 public class GitSecondFile {
-
-	/**
-	 * @param args
-	 */
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+	public void message() {
+		System.out.println("The second file");
 	}
-
 }
